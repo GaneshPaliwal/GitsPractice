@@ -1,4 +1,3 @@
-package pkg1;
 
 public class Pkg2 {
 
